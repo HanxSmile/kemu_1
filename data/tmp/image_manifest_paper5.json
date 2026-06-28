@@ -1,0 +1,602 @@
+[
+  {
+    "paper": 5,
+    "index": 1,
+    "question": "这是什么操纵装置？",
+    "image": "data/reports/images/P5-001.png"
+  },
+  {
+    "paper": 5,
+    "index": 2,
+    "question": "如图所示，机动车在这种道路上行驶，在道路中间通行的原因是什么?",
+    "image": "data/reports/images/P5-002.png"
+  },
+  {
+    "paper": 5,
+    "index": 3,
+    "question": "驾驶机动车变更车道为什么要提前开启转向灯?",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 4,
+    "question": "牵引发生故障的机动车时，最高车速是（）。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 5,
+    "question": "如图所示，驾驶机动车遇到没有行人通过的人行横道时不用减速慢行。",
+    "image": "data/reports/images/P5-005.png"
+  },
+  {
+    "paper": 5,
+    "index": 6,
+    "question": "驾驶机动车在高速公路上遇到雨雪天气时，需要降低车速、保持安全距离的原因，以下说法错误的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 7,
+    "question": "如图所示，驾驶机动车在这种情况下，当C车减速让超车时，A车应该如何行驶？",
+    "image": "data/reports/images/P5-007.png"
+  },
+  {
+    "paper": 5,
+    "index": 8,
+    "question": "雪天在高速公路上驾驶时，关于安全车距错误的说法是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 9,
+    "question": "驾驶车辆时在道路上抛撒物品，以下说法不正确的是？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 10,
+    "question": "图中深色车辆在该地点临时停车是可以的。",
+    "image": "data/reports/images/P5-010.png"
+  },
+  {
+    "paper": 5,
+    "index": 11,
+    "question": "年龄在70周岁以上的机动车驾驶人审验时应当按照规定进行记忆力、判断力、反应力等能力测试。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 12,
+    "question": "在没有道路中心线的公路行驶，最高车速是（）。",
+    "image": "data/reports/images/P5-012.png"
+  },
+  {
+    "paper": 5,
+    "index": 13,
+    "question": "在高速公路可以随时借用应急车道超车。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 14,
+    "question": "已经达到报废标准的机动车经大修后也不可以上路行驶。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 15,
+    "question": "如图所示，这种情形下，A车可以继续通行。",
+    "image": "data/reports/images/P5-015.png"
+  },
+  {
+    "paper": 5,
+    "index": 16,
+    "question": "驾驶机动车载运爆炸物品，未悬挂警示标志并采取必要的安全措施的，一次记12分。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 17,
+    "question": "代替实际驾驶人参加审验教育的，处2000元以下罚款。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 18,
+    "question": "驾驶电动汽车，以下说法错误的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 19,
+    "question": "如图所示，驾驶机动车行驶到这个位置时，如果车前轮已越过停止线不得继续通过。",
+    "image": "data/reports/images/P5-019.png"
+  },
+  {
+    "paper": 5,
+    "index": 20,
+    "question": "遇前方路段车道减少行驶缓慢，为保证安全有序应该怎样做？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 21,
+    "question": "驾驶机动车在高速公路上发生故障时，应在来车方向多少米外设置警告标志？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 22,
+    "question": "驾驶机动车在高速公路上行驶，能见度小于100米时，车速不得超过每小时60公里。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 23,
+    "question": "在高速公路上驾驶机动车，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 24,
+    "question": "驾驶机动车在下列哪种路段不得超车？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 25,
+    "question": "这是什么踏板？",
+    "image": "data/reports/images/P5-025.png"
+  },
+  {
+    "paper": 5,
+    "index": 26,
+    "question": "如图所示，在高速公路同方向两条机动车道左侧车道行驶，应保持什么车速?",
+    "image": "data/reports/images/P5-026.png"
+  },
+  {
+    "paper": 5,
+    "index": 27,
+    "question": "如图所示，铁路道口禁止掉头的原因是什么?",
+    "image": "data/reports/images/P5-027.png"
+  },
+  {
+    "paper": 5,
+    "index": 28,
+    "question": "驾车驶出环岛时，如何使用灯光？",
+    "image": "data/reports/images/P5-028.png"
+  },
+  {
+    "paper": 5,
+    "index": 29,
+    "question": "如图所示，驾驶机动车驶出匝道后可以直接驶入行车道。",
+    "image": "data/reports/images/P5-029.png"
+  },
+  {
+    "paper": 5,
+    "index": 30,
+    "question": "如图所示，该机动车在应急车道内停车，以下说法正确的是什么？①未开启危险报警闪光灯②警告标志放置距离不足150米③车上人员未转移到安全区域",
+    "image": "data/reports/images/P5-030.png"
+  },
+  {
+    "paper": 5,
+    "index": 31,
+    "question": "在图中高速公路这条车道行驶，车速不得低于（）。",
+    "image": "data/reports/images/P5-031.png"
+  },
+  {
+    "paper": 5,
+    "index": 32,
+    "question": "驾驶机动车在道路上向右变更车道应使用转向灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 33,
+    "question": "驾驶机动车在这种道路上如何通行？",
+    "image": "data/reports/images/P5-033.png"
+  },
+  {
+    "paper": 5,
+    "index": 34,
+    "question": "在这种环境下通过路口如何使用灯光？",
+    "image": "data/reports/images/P5-034.png"
+  },
+  {
+    "paper": 5,
+    "index": 35,
+    "question": "驾驶机动车在雾天行车开启雾灯和危险报警闪光灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 36,
+    "question": "掉头、转弯、下陡坡时的最高车速是40km/h。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 37,
+    "question": "夜间驾驶机动车在窄路、窄桥会车时正确的做法是使用远光灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 38,
+    "question": "驾驶机动车在高速公路要按照限速标志标明的车速行驶。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 39,
+    "question": "机动车在高速公路上发生故障或交通事故无法正常行驶时由什么车拖拽或牵引？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 40,
+    "question": "驾驶机动车在路口遇到这种信号灯表示什么意思？",
+    "image": "data/reports/images/P5-040.png"
+  },
+  {
+    "paper": 5,
+    "index": 41,
+    "question": "驾车在高速公路上遇前方拥堵时，应跟随前车顺序排队，并开启危险报警闪光灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 42,
+    "question": "如图所示，在同方向三条机动车道的高速公路中间车道行驶，车速不能低于多少公里？",
+    "image": "data/reports/images/P5-042.png"
+  },
+  {
+    "paper": 5,
+    "index": 43,
+    "question": "图中车辆在拥堵路段排队行驶时，遇其他车辆强行穿插行驶，为保证安全，以下做法正确的是（）。",
+    "image": "data/reports/images/P5-043.png"
+  },
+  {
+    "paper": 5,
+    "index": 44,
+    "question": "车辆在高速公路上发生故障后，为寻求其他车辆的帮助，可将警告标志放置在其他车道。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 45,
+    "question": "图中红圈内车辆变更车道的做法违法。",
+    "image": "data/reports/images/P5-045.png"
+  },
+  {
+    "paper": 5,
+    "index": 46,
+    "question": "黄色闪光警告信号灯，表示机动车可以在确认安全后通过。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 47,
+    "question": "驾驶机动车在高速路上行驶低于规定最低时速的，一次记3分。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 48,
+    "question": "驾驶机动车在道路上靠路边停车过程中如何使用灯光？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 49,
+    "question": "夜间在急弯行车时，交替使用远、近光灯。",
+    "image": "data/reports/images/P5-049.png"
+  },
+  {
+    "paper": 5,
+    "index": 50,
+    "question": "驾驶机动车遇到前方车辆停车排队等候或缓慢行驶时怎么办？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 51,
+    "question": "驾车遇到图中情形要加速从左侧灰色车辆前变更车道。",
+    "image": "data/reports/images/P5-051.png"
+  },
+  {
+    "paper": 5,
+    "index": 52,
+    "question": "进入高速公路减速车道时怎样使用灯光？",
+    "image": "data/reports/images/P5-052.png"
+  },
+  {
+    "paper": 5,
+    "index": 53,
+    "question": "车辆通过铁道路口前，换入低速挡，避免中途换挡导致发动机熄火。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 54,
+    "question": "小型客车行驶在平坦的高速公路上，突然有颠簸感觉时，应迅速降低车速，防止爆胎。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 55,
+    "question": "驾驶有ABS系统的机动车在紧急制动的同时转向可能会发生侧滑。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 56,
+    "question": "如图所示，在超车过程中，遇对向有来车时要放弃超车是因为什么?",
+    "image": "data/reports/images/P5-056.png"
+  },
+  {
+    "paper": 5,
+    "index": 57,
+    "question": "在超越前车时，提前开启左转向灯，变换使用远、近光灯或者鸣喇叭是为了什么?",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 58,
+    "question": "驾驶机动车在高速公路发生故障，需要停车排除故障时，以下做法先后顺序正确的是？ ①放置警告标志，转移乘车人员至安全处，迅速报警②开启危险报警闪光灯③将车辆移至不妨碍交通的位置④等待救援",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 59,
+    "question": "",
+    "image": "data/reports/images/P5-059.png"
+  },
+  {
+    "paper": 5,
+    "index": 60,
+    "question": "驾驶机动车在高速公路上车辆发生故障，需要停车排除故障时，若能将机动车移至应急车道内，则不需要开启危险报警闪光灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 61,
+    "question": "驾驶机动车在高速公路上遇前方车流缓行时，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 62,
+    "question": "驾驶机动车通过有交通信号灯控制的交叉路口，以下做法错误的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 63,
+    "question": "如图所示，驾驶机动车在路口遇到这种信号灯可以左转或右转。",
+    "image": "data/reports/images/P5-063.png"
+  },
+  {
+    "paper": 5,
+    "index": 64,
+    "question": "驾驶机动车进入加速车道后，可临时停车等待同行的其他车辆。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 65,
+    "question": "驾驶机动车驶出地下车库，遇车流量较大时，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 66,
+    "question": "在这种情况下可以借右侧公交车道超车。",
+    "image": "data/reports/images/P5-066.png"
+  },
+  {
+    "paper": 5,
+    "index": 67,
+    "question": "驾驶机动车在冰雪道路行驶时，最高速度不能超过多少？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 68,
+    "question": "路中心黄色虚线的含义是分隔对向交通流，在保证安全的前提下，可越线超车或转弯。",
+    "image": "data/reports/images/P5-068.png"
+  },
+  {
+    "paper": 5,
+    "index": 69,
+    "question": "驾驶人在超车时，前方车辆不减速、不让道，应怎样做？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 70,
+    "question": "车辆驶离高速公路时，应当经减速车道减速后进入匝道。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 71,
+    "question": "变更车道时只需开启转向灯，驶入相应的车道，不得妨碍同车道机动车正常行驶。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 72,
+    "question": "如图所示，驾驶机动车直行遇前方道路堵塞时，车辆可以在黄色网格线区域临时停车等待，但不得在人行横道停车。",
+    "image": "data/reports/images/P5-072.png"
+  },
+  {
+    "paper": 5,
+    "index": 73,
+    "question": "图中标注车辆在该地点停车是可以的。",
+    "image": "data/reports/images/P5-073.png"
+  },
+  {
+    "paper": 5,
+    "index": 74,
+    "question": "驾驶机动车在遇这种情况时，我方车辆不能超越是因为？",
+    "image": "data/reports/images/P5-074.png"
+  },
+  {
+    "paper": 5,
+    "index": 75,
+    "question": "驾驶机动车掉头时，以下做法正确的是什么?",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 76,
+    "question": "驾驶机动车超车时，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 77,
+    "question": "驾驶机动车通过窄路、窄桥时的最高速度不能超过每小时50公里。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 78,
+    "question": "图中小型汽车的停车地点是正确的。",
+    "image": "data/reports/images/P5-078.png"
+  },
+  {
+    "paper": 5,
+    "index": 79,
+    "question": "如图所示，在这个路段可以掉头。",
+    "image": "data/reports/images/P5-079.png"
+  },
+  {
+    "paper": 5,
+    "index": 80,
+    "question": "如图所示，遇到这种情况可以优先通行。",
+    "image": "data/reports/images/P5-080.png"
+  },
+  {
+    "paper": 5,
+    "index": 81,
+    "question": "遇到这种情形时要停车避让行人。",
+    "image": "data/reports/images/P5-081.png"
+  },
+  {
+    "paper": 5,
+    "index": 82,
+    "question": "这辆停在路边的机动车没有违法行为。",
+    "image": "data/reports/images/P5-082.png"
+  },
+  {
+    "paper": 5,
+    "index": 83,
+    "question": "这个地面标记的含义是预告前方设有交叉路口。",
+    "image": "data/reports/images/P5-083.png"
+  },
+  {
+    "paper": 5,
+    "index": 84,
+    "question": "驾驶人在观察后方无来车的情况下，未开转向灯就变更车道也是合理的。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 85,
+    "question": "车辆在高速公路以每小时100公里的速度行驶时，距同车道前车100米以上为安全距离。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 86,
+    "question": "如图所示，驾驶机动车遇到右侧车辆强行变道，应减速慢行，让右前方车辆顺利变道。",
+    "image": "data/reports/images/P5-086.png"
+  },
+  {
+    "paper": 5,
+    "index": 87,
+    "question": "驾驶机动车遇前方交叉路口交通阻塞时，路口内无网状线的，可停在路口内等候。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 88,
+    "question": "如图所示，蓝色车辆遇到图中情形时，下列做法正确的是?",
+    "image": "data/reports/images/P5-088.png"
+  },
+  {
+    "paper": 5,
+    "index": 89,
+    "question": "如下图所示的交通事故中，有关事故责任认定，正确的说法是什么？",
+    "image": "data/reports/images/P5-089.png"
+  },
+  {
+    "paper": 5,
+    "index": 90,
+    "question": "白天驾驶机动车超车时，应提前开启什么灯光？",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 91,
+    "question": "如图所示，遇到这种情况的铁路道口，禁止车辆通行。",
+    "image": "data/reports/images/P5-091.png"
+  },
+  {
+    "paper": 5,
+    "index": 92,
+    "question": "从高速公路进入减速车道后，应通过观察与前后车的距离来控制车速，不能单纯凭感觉。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 93,
+    "question": "可以从这个位置直接驶入高速公路行车道。",
+    "image": "data/reports/images/P5-093.png"
+  },
+  {
+    "paper": 5,
+    "index": 94,
+    "question": "机动车在没有划分机动车道、非机动车道和人行道的道路中间通行，是要给两侧的非机动车和行人留出通行空间。",
+    "image": "data/reports/images/P5-094.png"
+  },
+  {
+    "paper": 5,
+    "index": 95,
+    "question": "如图所示，驾驶机动车遇前方交通拥堵，可占用公交专用道行驶。",
+    "image": "data/reports/images/P5-095.png"
+  },
+  {
+    "paper": 5,
+    "index": 96,
+    "question": "以下做法正确的是（）。",
+    "image": "data/reports/images/P5-096.png"
+  },
+  {
+    "paper": 5,
+    "index": 97,
+    "question": "如图所示，驾驶机动车遇到这种情况时，A车应当注意避让。",
+    "image": "data/reports/images/P5-097.png"
+  },
+  {
+    "paper": 5,
+    "index": 98,
+    "question": "驾驶机动车超车时，可以鸣喇叭替代开启转向灯。",
+    "image": null
+  },
+  {
+    "paper": 5,
+    "index": 99,
+    "question": "如图所示，这样停放机动车有什么违法行为？",
+    "image": "data/reports/images/P5-099.png"
+  },
+  {
+    "paper": 5,
+    "index": 100,
+    "question": "在高速公路上驾驶机动车感觉疲劳时，应驶入最近的服务区休息，不得在应急车道内停车休息。",
+    "image": null
+  }
+]

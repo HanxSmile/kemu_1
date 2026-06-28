@@ -1,0 +1,602 @@
+[
+  {
+    "paper": 4,
+    "index": 1,
+    "question": "图中指示灯一直亮，表示发动机控制系统故障。",
+    "image": "data/reports/images/P4-001.png"
+  },
+  {
+    "paper": 4,
+    "index": 2,
+    "question": "这种握转向盘的动作是正确的。",
+    "image": "data/reports/images/P4-002.png"
+  },
+  {
+    "paper": 4,
+    "index": 3,
+    "question": "旋转开关这一档控制机动车哪个部位？",
+    "image": "data/reports/images/P4-003.png"
+  },
+  {
+    "paper": 4,
+    "index": 4,
+    "question": "将转向灯开关向上提，左转向灯亮。",
+    "image": "data/reports/images/P4-004.png"
+  },
+  {
+    "paper": 4,
+    "index": 5,
+    "question": "防抱死制动系统（ABS）在什么情况下可以最大限度发挥制动器效能?",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 6,
+    "question": "其他车辆不准进入专用车道行驶，其目的是为了不影响专用车的正常通行。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 7,
+    "question": "通过前方路口时，以下做法正确的是（）。",
+    "image": "data/reports/images/P4-007.png"
+  },
+  {
+    "paper": 4,
+    "index": 8,
+    "question": "超车时应从前车的左侧超越，是因为左侧超车便于观察，有利于安全。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 9,
+    "question": "机动车驾驶证有效期超过一年以上未换证的，驾驶证将被注销。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 10,
+    "question": "以下从加速车道驶入高速公路的做法错误的是（）。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 11,
+    "question": "假如你驾车行驶在颠簸路段时，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 12,
+    "question": "如图所示，车辆此时可以怎么行驶？",
+    "image": "data/reports/images/P4-012.png"
+  },
+  {
+    "paper": 4,
+    "index": 13,
+    "question": "灯光开关在该位置时，前雾灯点亮。",
+    "image": "data/reports/images/P4-013.png"
+  },
+  {
+    "paper": 4,
+    "index": 14,
+    "question": "如图所示，驾驶机动车遇左侧车道有车辆正在超车时，可以等待左侧车辆完成超车后再寻找时机超车。",
+    "image": "data/reports/images/P4-014.png"
+  },
+  {
+    "paper": 4,
+    "index": 15,
+    "question": "遇前方为执行紧急任务的警车时，可超车。",
+    "image": "data/reports/images/P4-015.png"
+  },
+  {
+    "paper": 4,
+    "index": 16,
+    "question": "驾驶机动车违反禁令标志、禁止标线指示的，一次记6分。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 17,
+    "question": "机动车属于被盗抢骗的，不予办理注册登记。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 18,
+    "question": "驾驶机动车牵引挂车时，以下说法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 19,
+    "question": "饮酒后只要不影响驾驶操作可以短距离驾驶机动车。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 20,
+    "question": "道路上划设这种标线的车道内允许下列哪类车辆通行？",
+    "image": "data/reports/images/P4-020.png"
+  },
+  {
+    "paper": 4,
+    "index": 21,
+    "question": "如图所示，驾驶机动车在同方向只有1条机动车道的城市道路上行驶，最高行驶速度不得超过每小时多少公里?",
+    "image": "data/reports/images/P4-021.png"
+  },
+  {
+    "paper": 4,
+    "index": 22,
+    "question": "驾驶机动车在没有中心线的城市道路上，最高速度不能超过每小时50公里。",
+    "image": "data/reports/images/P4-022.png"
+  },
+  {
+    "paper": 4,
+    "index": 23,
+    "question": "同车道行驶的车辆遇前车有下列哪种情形时不得超车？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 24,
+    "question": "这位驾驶人违反法律规定的行为是什么？",
+    "image": "data/reports/images/P4-024.png"
+  },
+  {
+    "paper": 4,
+    "index": 25,
+    "question": "机动车驾驶证有效期分为6年、10年、20年。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 26,
+    "question": "驾驶机动车在路口直行遇到这种信号灯应该怎样行驶？",
+    "image": "data/reports/images/P4-026.png"
+  },
+  {
+    "paper": 4,
+    "index": 27,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-027.png"
+  },
+  {
+    "paper": 4,
+    "index": 28,
+    "question": "这个标志提示哪种车型禁止通行驶入？",
+    "image": "data/reports/images/P4-028.png"
+  },
+  {
+    "paper": 4,
+    "index": 29,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-029.png"
+  },
+  {
+    "paper": 4,
+    "index": 30,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-030.png"
+  },
+  {
+    "paper": 4,
+    "index": 31,
+    "question": "下列哪个标志提示驾驶人连续弯路？",
+    "image": "data/reports/images/P4-031.png"
+  },
+  {
+    "paper": 4,
+    "index": 32,
+    "question": "这个标志的含义是禁止电动自行车进入。",
+    "image": "data/reports/images/P4-032.png"
+  },
+  {
+    "paper": 4,
+    "index": 33,
+    "question": "如图所示，驾驶机动车行驶至此路段时，可以直接掉头。",
+    "image": "data/reports/images/P4-033.png"
+  },
+  {
+    "paper": 4,
+    "index": 34,
+    "question": "这个标志是什么?",
+    "image": "data/reports/images/P4-034.png"
+  },
+  {
+    "paper": 4,
+    "index": 35,
+    "question": "图中交通标志是指（）。",
+    "image": "data/reports/images/P4-035.png"
+  },
+  {
+    "paper": 4,
+    "index": 36,
+    "question": "图中圈内白色虚线是什么标线？",
+    "image": "data/reports/images/P4-036.png"
+  },
+  {
+    "paper": 4,
+    "index": 37,
+    "question": "图中圈内的锯齿状白色实线是什么标线？",
+    "image": "data/reports/images/P4-037.png"
+  },
+  {
+    "paper": 4,
+    "index": 38,
+    "question": "当行人出现交通安全违法行为时，车辆可以不给行人让行。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 39,
+    "question": "机动车在环形路口内行驶，遇有其他车辆强行驶入时，只要有优先权就可以不避让。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 40,
+    "question": "机动车仪表板上如图所示指示灯亮表示什么？",
+    "image": "data/reports/images/P4-040.png"
+  },
+  {
+    "paper": 4,
+    "index": 41,
+    "question": "机动车仪表板上如下图所示指示灯亮表示什么？",
+    "image": "data/reports/images/P4-041.png"
+  },
+  {
+    "paper": 4,
+    "index": 42,
+    "question": "机动车仪表板上如下图所示指示灯亮表示什么？",
+    "image": "data/reports/images/P4-042.png"
+  },
+  {
+    "paper": 4,
+    "index": 43,
+    "question": "如下图所示这个符号的开关控制什么装置？",
+    "image": "data/reports/images/P4-043.png"
+  },
+  {
+    "paper": 4,
+    "index": 44,
+    "question": "如下图所示这个符号的开关控制什么装置？",
+    "image": "data/reports/images/P4-044.png"
+  },
+  {
+    "paper": 4,
+    "index": 45,
+    "question": "机动车仪表板上如图所示指示灯亮表示什么？",
+    "image": "data/reports/images/P4-045.png"
+  },
+  {
+    "paper": 4,
+    "index": 46,
+    "question": "这是什么操纵装置？",
+    "image": "data/reports/images/P4-046.png"
+  },
+  {
+    "paper": 4,
+    "index": 47,
+    "question": "在图中所示，同向三车道高速公路上行车，车速高于每小时110公里的车辆应在哪条车道上行驶？",
+    "image": "data/reports/images/P4-047.png"
+  },
+  {
+    "paper": 4,
+    "index": 48,
+    "question": "如图所示，以下哪种情况可以超车?",
+    "image": "data/reports/images/P4-048.png"
+  },
+  {
+    "paper": 4,
+    "index": 49,
+    "question": "驾驶机动车超车时，前方车辆不减速让路，应停止超车并适当减速，与前方车辆保持安全距离。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 50,
+    "question": "驾驶机动车行经漫水路或者漫水桥时，应当停车察明水情。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 51,
+    "question": "夜间驾驶机动车在没有中心隔离设施或者没有中心线的道路上行驶，以下哪种情况下应当改用近光灯？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 52,
+    "question": "如图所示，夜间驾驶机动车与同方向行驶的前车距离较近时，以下做法正确的是什么？",
+    "image": "data/reports/images/P4-052.png"
+  },
+  {
+    "paper": 4,
+    "index": 53,
+    "question": "自愿降级的驾驶人需要到车辆管理所申请换领驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 54,
+    "question": "高速公路上车辆发生故障后，开启危险警报闪光灯和摆放警告标志是为了向其他车辆求助。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 55,
+    "question": "点火开关在ON位置，发动机工作。",
+    "image": "data/reports/images/P4-055.png"
+  },
+  {
+    "paper": 4,
+    "index": 56,
+    "question": "如图所示，驾驶机动车行驶至铁路道口时，以下做法正确的是什么？",
+    "image": "data/reports/images/P4-056.png"
+  },
+  {
+    "paper": 4,
+    "index": 57,
+    "question": "如图所示，驾驶机动车在路口遇到这种信号灯可以怎样行驶？",
+    "image": "data/reports/images/P4-057.png"
+  },
+  {
+    "paper": 4,
+    "index": 58,
+    "question": "驾驶机动车不得在交叉路口，铁路道口，急弯路，宽度不足4米的窄路，桥梁，陡坡，隧道以及距离上述地点多少米内的路段不得停车？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 59,
+    "question": "夜间驾驶机动车在高速公路上发生交通事故，以下做法正确的是什么？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 60,
+    "question": "驾驶人在机动车驾驶证的6年有效期内，每个记分周期均未达到12分的，换发长期有效的机动车驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 61,
+    "question": "在路口这个位置时可以右转通过路口。",
+    "image": "data/reports/images/P4-061.png"
+  },
+  {
+    "paper": 4,
+    "index": 62,
+    "question": "驾驶未悬挂机动车号牌的机动车上道路行驶的，一次记12分。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 63,
+    "question": "图中信号灯亮起时，黑色车辆可以通过。",
+    "image": "data/reports/images/P4-063.png"
+  },
+  {
+    "paper": 4,
+    "index": 64,
+    "question": "机动车驾驶人可以在机动车驾驶证核发地或者交通违法行为发生地、处理地参加公安机关交通管理部门组织的道路交通安全法律、法规和相关知识学习，并在学习地参加考试。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 65,
+    "question": "如图所示，在没有划分道路中心线的道路上行驶会车时必须减速靠右通过。",
+    "image": "data/reports/images/P4-065.png"
+  },
+  {
+    "paper": 4,
+    "index": 66,
+    "question": "机动车所有人申请转让登记前，应当将涉及该车的道路交通安全违法行为和交通事故处理完毕。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 67,
+    "question": "驾驶机动车在高速公路上行驶，遇能见度小于50米的恶劣气象条件时，车速不得超过每小时多少公里，并尽快驶离？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 68,
+    "question": "驾驶机动车在高速公路加速车道上行驶，应尽快将车速提高到60km/h以上。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 69,
+    "question": "如图所示，驾驶机动车在路口右转弯时，遇相对方向行驶的车辆左转弯时以下做法正确的是什么？",
+    "image": "data/reports/images/P4-069.png"
+  },
+  {
+    "paper": 4,
+    "index": 70,
+    "question": "机动车在道路上变更车道需要注意什么？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 71,
+    "question": "驾驶机动车不能进入红色叉形灯或者红色箭头灯亮的车道。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 72,
+    "question": "这两辆车发生追尾的主要原因是什么？",
+    "image": "data/reports/images/P4-072.png"
+  },
+  {
+    "paper": 4,
+    "index": 73,
+    "question": "如图所示，遇有这种排队等候的情形怎么做？",
+    "image": "data/reports/images/P4-073.png"
+  },
+  {
+    "paper": 4,
+    "index": 74,
+    "question": "遇前方交叉路口交通拥堵时，以下做法正确的是（）。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 75,
+    "question": "在图中高速公路这条车道行驶，车速不得高于（）。",
+    "image": "data/reports/images/P4-075.png"
+  },
+  {
+    "paper": 4,
+    "index": 76,
+    "question": "驾驶小型载客汽车在高速公路行驶的最低车速为90公里/小时。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 77,
+    "question": "驾驶小型载客汽车在高速公路上时速低于100公里时的最小跟车距离是多少？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 78,
+    "question": "驾驶人将机动车交给驾驶证被暂扣的人驾驶的，交通警察给予口头警告。",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 79,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-079.png"
+  },
+  {
+    "paper": 4,
+    "index": 80,
+    "question": "图中交通标志是指（）。",
+    "image": "data/reports/images/P4-080.png"
+  },
+  {
+    "paper": 4,
+    "index": 81,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-081.png"
+  },
+  {
+    "paper": 4,
+    "index": 82,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-082.png"
+  },
+  {
+    "paper": 4,
+    "index": 83,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-083.png"
+  },
+  {
+    "paper": 4,
+    "index": 84,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-084.png"
+  },
+  {
+    "paper": 4,
+    "index": 85,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-085.png"
+  },
+  {
+    "paper": 4,
+    "index": 86,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-086.png"
+  },
+  {
+    "paper": 4,
+    "index": 87,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-087.png"
+  },
+  {
+    "paper": 4,
+    "index": 88,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-088.png"
+  },
+  {
+    "paper": 4,
+    "index": 89,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-089.png"
+  },
+  {
+    "paper": 4,
+    "index": 90,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-090.png"
+  },
+  {
+    "paper": 4,
+    "index": 91,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-091.png"
+  },
+  {
+    "paper": 4,
+    "index": 92,
+    "question": "这个标志是何含义？",
+    "image": "data/reports/images/P4-092.png"
+  },
+  {
+    "paper": 4,
+    "index": 93,
+    "question": "这个路面标记是什么标线？",
+    "image": "data/reports/images/P4-093.png"
+  },
+  {
+    "paper": 4,
+    "index": 94,
+    "question": "道路最左侧白色虚线区域是何含义？",
+    "image": "data/reports/images/P4-094.png"
+  },
+  {
+    "paper": 4,
+    "index": 95,
+    "question": "驶近没有人行横道的交叉路口时，发现有人横穿道路，应怎样做？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 96,
+    "question": "行车中遇抢救伤员的救护车从本车道逆向驶来时，应怎样做？",
+    "image": null
+  },
+  {
+    "paper": 4,
+    "index": 97,
+    "question": "机动车仪表板上这个符号如图所示表示什么？",
+    "image": "data/reports/images/P4-097.png"
+  },
+  {
+    "paper": 4,
+    "index": 98,
+    "question": "这是什么踏板？",
+    "image": "data/reports/images/P4-098.png"
+  },
+  {
+    "paper": 4,
+    "index": 99,
+    "question": "灯光开关旋转到这个位置时，全车灯光点亮。",
+    "image": "data/reports/images/P4-099.png"
+  },
+  {
+    "paper": 4,
+    "index": 100,
+    "question": "灯光开关在该位置时，前雾灯点亮。",
+    "image": "data/reports/images/P4-100.png"
+  }
+]

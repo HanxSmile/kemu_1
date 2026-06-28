@@ -1,0 +1,602 @@
+[
+  {
+    "paper": 2,
+    "index": 1,
+    "question": "中型客车对应的驾驶证准驾车型代号是（）。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 2,
+    "question": "驾驶人违反交通运输管理法规发生重大事故使公私财产遭受重大损失，可能会受到什么刑罚？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 3,
+    "question": "交通肇事致一人以上重伤，负事故全部或者主要责任，并具有下列哪种行为的，构成交通肇事罪?",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 4,
+    "question": "驾驶人补领驾驶证后，使用原驾驶证驾驶的，除收回原机动车驾驶证外，还应当受到何种处罚？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 5,
+    "question": "机动车之间发生的造成财产损失、尚未造成人员伤亡，且车辆可以移动的交通事故，双方驾驶人对交通事故无争议，但其中一方使用伪造、变造的号牌，不可以自行协商解决。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 6,
+    "question": "未取得校车驾驶资格驾驶校车的，一次记几分？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 7,
+    "question": "交通违法行为累积记分未满多少分的，可以处理其驾驶的其他机动车的交通违法行为记录？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 8,
+    "question": "驾驶证审验内容不包括以下哪一项？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 9,
+    "question": "驾驶校车、中型以上载客载货汽车、危险物品运输车辆以外的机动车在高速公路、城市快速路上行驶超过规定时速百分之五十以上的，一次记9分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 10,
+    "question": "参加公安机关交通管理部门组织的道路交通安全法律、法规和相关知识网上学习三日内累计满三十分钟且考试合格的，一次扣减一分交通违法行为记分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 11,
+    "question": "下列交通违法行为，一次记9分的是什么？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 12,
+    "question": "交通肇事致一人以上重伤，负事故全部或者主要责任，并具有下列哪种行为的，构成交通肇事罪?",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 13,
+    "question": "以下哪种身体条件，不可以申请机动车驾驶证?",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 14,
+    "question": "交通肇事致一人以上重伤，负事故全部或者主要责任，并具有下列哪种行为的，构成交通肇事罪?",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 15,
+    "question": "驾驶人在发生交通事故后因抢救伤员变动现场时要标明位置。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 16,
+    "question": "驾驶机动车在道路上发生交通事故，当事人不能自行移动车辆的，应当保护现场并立即报警。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 17,
+    "question": "驾车拨打、接听手持电话的，一次记（）分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 18,
+    "question": "机动车驾驶人在参加接受交通安全教育扣减交通违法行为记分中弄虚作假的，由公安机关交通管理部门撤销相应记分扣减记录，恢复相应记分，处多少元以下罚款？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 19,
+    "question": "驾驶校车、公路客运汽车、旅游客运汽车载人超过核定人数未达到百分之二十的，一次记几分？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 20,
+    "question": "非机动车驾驶人、行人故意碰撞机动车造成交通事故的，机动车一方不承担赔偿责任。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 21,
+    "question": "发生人身伤亡、后果严重的交通事故，可自行撤离现场。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 22,
+    "question": "对未取得驾驶证驾驶机动车的，追究其法律责任。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 23,
+    "question": "以欺骗、贿赂等不正当手段取得驾驶证被依法撤销驾驶许可的，（）不得重新申请驾驶许可？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 24,
+    "question": "服用国家管制的精神药品可以短途驾驶机动车。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 25,
+    "question": "驾驶人有使用其他车辆号牌、行驶证嫌疑的，交通警察可依法扣留车辆。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 26,
+    "question": "机动车发生财产损失交通事故，对应当自行撤离现场而未撤离造成交通堵塞的，可以对驾驶人处以200元罚款。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 27,
+    "question": "事故报警时，要向交警提供事故地点、人员伤情、车辆号牌等信息，协助交警快速定位到达现场。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 28,
+    "question": "驾驶机动车不按交通信号灯指示通行的，一次记3分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 29,
+    "question": "驾驶机动车发生未造成人身伤亡的交通事故后，当事人对事实及成因有争议的，应当立即报警。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 30,
+    "question": "驾驶机动车在道路上发生交通事故要立即将车移到路边。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 31,
+    "question": "有吸食、注射毒品后驾驶驾车行为的机动车驾驶人，不会被注销驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 32,
+    "question": "驾驶人有使用其他车辆检验合格标志嫌疑的，交通警察可依法扣留车辆。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 33,
+    "question": "机动车驾驶人在一个记分周期内累积记分满24分未满36分的，应当在道路交通安全法律、法规和相关知识考试合格后，按规定预约参加场地驾驶技能考试。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 34,
+    "question": "机动车驾驶证在实习期内，驾驶人不得通过接受交通安全教育扣减交通违法行为记分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 35,
+    "question": "驾驶人的驾驶证损毁后不得驾驶机动车。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 36,
+    "question": "机动车发生轻微财产损失的交通事故，对应当自行撤离现场而未撤离的，交通警察有权责令当事人撤离现场。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 37,
+    "question": "申请人患有癫痫病可以申领机动车驾驶证，但是驾车时必须有人陪同。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 38,
+    "question": "车辆发生轻微剐蹭事故，双方驾驶人争执不下，坚持在原地等待警察来处理，造成路面堵塞，该行为会受到罚款的处罚。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 39,
+    "question": "机动车未按照规定期限进行安全技术检验的，由公安机关交通管理部门处警告或者二百元以下罚款。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 40,
+    "question": "驾驶校车、公路客运汽车、旅游客运汽车、7座以上载客汽车以外的其他载客汽车载人超过核定人数百分之五十以上未达到百分之百的，一次记9分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 41,
+    "question": "在上一个记分周期内机动车驾驶人有二次以上参加满分教育记录的，可以在接受交通安全教育后扣减交通违法行为记分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 42,
+    "question": "机动车驾驶人在一个记分周期期限届满，累积记分未满12分的，该记分周期内的记分予以清除。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 43,
+    "question": "造成交通事故后逃逸且构成犯罪的驾驶人，将吊销驾驶证且终生不得重新取得驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 44,
+    "question": "上路行驶的机动车未随车携带身份证的，交通警察可依法扣留机动车。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 45,
+    "question": "驾驶机动车发生财产损失交通事故后，当事人对事实及成因无争议移动车辆时需要对现场拍照或者标划停车位置。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 46,
+    "question": "上下拨动图中开关，前挡风玻璃刮水器开始工作。",
+    "image": "data/reports/images/P2-046.png"
+  },
+  {
+    "paper": 2,
+    "index": 47,
+    "question": "机动车仪表板上如图所示指示灯亮，提示右侧车门未关闭。",
+    "image": "data/reports/images/P2-047.png"
+  },
+  {
+    "paper": 2,
+    "index": 48,
+    "question": "驾驶证电子版与纸质版具有同等效力。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 49,
+    "question": "参加公安机关交通管理部门组织的道路交通安全法律、法规和相关知识现场学习满一小时且考试合格的，一次扣减12分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 50,
+    "question": "组织他人参加审验教育时在签注学习记录、学习过程中弄虚作假的，没有违法所得的，由公安机关交通管理部门处二万元以下罚款。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 51,
+    "question": "驾驶不按规定安装机动车号牌的机动车上道路行驶的，一次记1分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 52,
+    "question": "对未按照国家规定投保交强险的车辆，交通警察可依法予以扣留。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 53,
+    "question": "道路交通事故中，机动车无号牌、检验合格标志、保险标志时，要保护现场并立即报警。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 54,
+    "question": "机动车仪表板上如下图所示指示灯亮表示发动机可能机油压力过高。",
+    "image": "data/reports/images/P2-054.png"
+  },
+  {
+    "paper": 2,
+    "index": 55,
+    "question": "图中指示灯亮表示（）。",
+    "image": "data/reports/images/P2-055.png"
+  },
+  {
+    "paper": 2,
+    "index": 56,
+    "question": "机动车仪表板上这个符号如下图所示表示什么？",
+    "image": "data/reports/images/P2-056.png"
+  },
+  {
+    "paper": 2,
+    "index": 57,
+    "question": "持有小型汽车驾驶证的驾驶人，发生交通事故造成人员死亡承担同等以上责任未被吊销机动车驾驶证的，应当在本记分周期结束后三十日内到公安机关交通管理部门接受审验，同时应当申报身体条件情况。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 58,
+    "question": "以下哪个仪表表示水温表？",
+    "image": "data/reports/images/P2-058.png"
+  },
+  {
+    "paper": 2,
+    "index": 59,
+    "question": "驾驶机动车追逐竞驶、超员、超速、违反危险化学品安全管理规定运输危险化学品构成犯罪依法被吊销机动车驾驶证未满五年的，不得申请机动车驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 60,
+    "question": "小型汽车科目二考试内容包括倒车入库，坡道定点停车和起步、侧方停车、曲线行驶、直角转弯。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 61,
+    "question": "以下缩写中，表示车辆自适应巡航系统缩写的是什么？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 62,
+    "question": "组织他人代替实际机动车驾驶人参加审验教育的，有违法所得的，由公安机关交通管理部门处违法所得三倍以下罚款，但最高不超过二万元。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 63,
+    "question": "驾驶人员在行驶的公共交通工具上擅离职守，与他人互殴或者殴打他人，危及公共安全，构成犯罪的，处一年以下有期徒刑、拘役或者管制，并处或者单处罚金。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 64,
+    "question": "酒后驾驶发生重大交通事故被依法追究刑事责任的人不能申请机动车驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 65,
+    "question": "如下图所示这个符号的开关控制什么装置？",
+    "image": "data/reports/images/P2-065.png"
+  },
+  {
+    "paper": 2,
+    "index": 66,
+    "question": "安全气囊是一种什么装置？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 67,
+    "question": "年龄在70周岁以上，在一个记分周期结束后一年内未提交身体条件证明的，其机动车驾驶证将会被车辆管理所注销。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 68,
+    "question": "以下哪个仪表表示发动机转速表？",
+    "image": "data/reports/images/P2-068.png"
+  },
+  {
+    "paper": 2,
+    "index": 69,
+    "question": "以下哪个指示灯亮时，表示发动机机油压力过低？",
+    "image": "data/reports/images/P2-069.png"
+  },
+  {
+    "paper": 2,
+    "index": 70,
+    "question": "车辆发生意外，要及时打开哪个灯？",
+    "image": "data/reports/images/P2-070.png"
+  },
+  {
+    "paper": 2,
+    "index": 71,
+    "question": "驾驶机动车不按规定超车、让行，或者在高速公路、城市快速路以外的道路上逆行的，一次记3分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 72,
+    "question": "驾驶机动车行经人行横道，不按规定减速、停车、避让行人的，一次记3分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 73,
+    "question": "驾驶机动车遇前方机动车停车排队或者缓慢行驶时，借道超车或者占用对面车道、穿插等候车辆的，将被一次记1分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 74,
+    "question": "驾驶未按规定定期进行安全技术检验的公路客运汽车、旅游客运汽车、危险品运输车辆以外的机动车上路行驶的，一次记1分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 75,
+    "question": "行政处罚决定被依法变更或者撤销的，相应记分不会变更或者撤销。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 76,
+    "question": "上路行驶的机动车未放置检验合格标志的，交通警察可依法扣留机动车。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 77,
+    "question": "对有使用伪造或变造检验合格标志嫌疑的车辆，交通警察只进行罚款处罚。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 78,
+    "question": "对发生道路交通事故需要收集证据的事故车，交通警察可以依法扣留。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 79,
+    "question": "驾驶人因服兵役、出国（境）等原因延期审验期间不得驾驶机动车。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 80,
+    "question": "大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶人应当每两年提交一次身体条件证明。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 81,
+    "question": "指示标线的作用是什么？",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 82,
+    "question": "机动车仪表板上如图所示指示灯亮表示什么？",
+    "image": "data/reports/images/P2-082.png"
+  },
+  {
+    "paper": 2,
+    "index": 83,
+    "question": "将点火开关转到ACC位置起动机工作。",
+    "image": "data/reports/images/P2-083.png"
+  },
+  {
+    "paper": 2,
+    "index": 84,
+    "question": "提拉这个开关控制机动车哪个部位？",
+    "image": "data/reports/images/P2-084.png"
+  },
+  {
+    "paper": 2,
+    "index": 85,
+    "question": "安装防抱死制动装置（ABS）的机动车制动时，制动距离会大大缩短，因此不必保持安全车距。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 86,
+    "question": "持有大型客车、重型牵引挂车、城市公交车、中型客车、大型货车驾驶证的驾驶人，记分周期内有记分的，应当在记分周期结束后三十日内到公安机关交通管理部门接受审验，同时还应当申报身体条件情况。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 87,
+    "question": "机动车驾驶人使用伪造、变造的行驶证的， 一次记9分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 88,
+    "question": "驾驶人可以通过“交管12123”APP或互联网交通安全综合服务管理平台申请电子版驾驶证。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 89,
+    "question": "年龄在70周岁以上的机动车驾驶人发生责任交通事故造成人员重伤或者死亡的，应当在本记分周期结束后三十日内到公安机关交通管理部门接受审验。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 90,
+    "question": "改变车身颜色、更换发动机、车身或者车架，未按照规定的时限办理变更登记的，由公安机关交通管理部门处警告或者二百元以下罚款。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 91,
+    "question": "机动车的型号或者有关技术参数与国务院机动车产品主管部门公告不符的，不予办理注册登记。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 92,
+    "question": "机动车驾驶人参加满分教育现场学习、网络学习的天数累计不得少于五天，其中，现场学习的天数不得少于一天。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 93,
+    "question": "代替他人或者让他人代替自己参加机动车驾驶人考试，构成犯罪的，处拘役或者管制，并处或者单处罚金。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 94,
+    "question": "这辆小型载客汽车驶离高速公路行车道的方法是正确的。",
+    "image": "data/reports/images/P2-094.png"
+  },
+  {
+    "paper": 2,
+    "index": 95,
+    "question": "科目三考试分为道路驾驶技能考试和安全文明驾驶常识考试两部分。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 96,
+    "question": "驾驶机动车在人行横道上临时停车属于违法行为。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 97,
+    "question": "机动车驾驶人在一个记分周期内累积记分未满12分的，但有罚款逾期未缴纳的，该记分周期内尚未缴纳罚款的交通违法行为记分分值转入下一记分周期。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 98,
+    "question": "机动车达到国家规定的强制报废标准的不能办理注册登记。",
+    "image": null
+  },
+  {
+    "paper": 2,
+    "index": 99,
+    "question": "图中指示灯亮时提醒发动机需要加注机油。",
+    "image": "data/reports/images/P2-099.png"
+  },
+  {
+    "paper": 2,
+    "index": 100,
+    "question": "图中指示灯亮表示（）。",
+    "image": "data/reports/images/P2-100.png"
+  }
+]
