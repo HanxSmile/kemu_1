@@ -155,4 +155,8 @@ debug*/
 *.gz
 
 cache/
+node_modules/
 .DS_Store
+data/raw/full_bank_*.jsonl
+web/public/images/full-bank/*-full.png
+web/public/images/full-bank/question-*.png
